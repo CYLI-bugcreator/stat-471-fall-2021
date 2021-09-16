@@ -28,6 +28,9 @@ Evaluate the sum of 2 and 2 using an R code chunk. Then, comment on the answer y
 
 ```{r}
 # R code here
+2+2
 ```
 
 **Your answer here.**
+
+4
