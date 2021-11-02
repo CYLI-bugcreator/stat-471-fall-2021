@@ -35,30 +35,30 @@ Tue 9/21 | 2. Tuning predictive models | Bias-variance trade-off | ISLR pp. 30-3
 Thu 9/23 | 2. Tuning predictive models | Cross-validation | ISLR Ch. 5.1 | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68091ea0-7111-479c-a6d5-adac000712dd); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-lecture-3-slides.pdf) ; [Programming material (.rmd)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-lecture-3.Rmd); [Programming material (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-lecture-3.pdf) | --
 Tue 9/28 | 2. Tuning predictive models | Classification | ISLRv1 pp. 127-130 / ISLRv2 pp. 129-132 | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38c8f6f1-9bef-4782-be69-adb00166fd48); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-lecture-4-slides.pdf); [Programming material (.rmd)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-lecture-4-programming.Rmd); [Programming material (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-lecture-4-programming.pdf) | --
 Thu 9/30 | 2. Tuning predictive models | Unit 2 Review | -- | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf28be44-bf1e-452c-809d-adb300c72e02); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-2/unit-2-review.pdf) | [Quiz 2](https://canvas.upenn.edu/courses/1597404/assignments/9195850) in class;<br /> ([Quiz 2 from last semester](https://canvas.upenn.edu/courses/1597404/quizzes/2651261))
-Mon 10/4 | -- | -- | -- | -- | Homework 2 due at 11:59pm
+Mon 10/4 | -- | -- | -- | -- | [Homework 2](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/homework/homework-2/homework-2.pdf) due at 11:59pm; [(Homework 2 solutions)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/homework/homework-2/homework-2-solutions.pdf) 
 Tue 10/5 | 3. Regression-based methods | Logistic regression | ISLR Ch. 4.3 | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6e0c0e7-2dae-49a4-a681-adb800db1096); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-1-slides.pdf); [Programming material (.rmd)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-1-programming.Rmd); [Programming material (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-1-programming.pdf) | --
-Thu 10/7 | 3. Regression-based methods | Regression in high dimensions | ISLR Ch. 6.4 | TBA | --
-Tue 10/12 | 3. Regression-based methods | Ridge regression | ISLR Ch. 6.2.1, 6.2.3 | TBA | --
+Thu 10/7 | 3. Regression-based methods | Regression in high dimensions | ISLR Ch. 6.4 | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3220af61-224e-4c5f-98a5-adb90130dd7e); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-2-slides.pdf) | --
+Tue 10/12 | 3. Regression-based methods | Ridge regression | ISLR Ch. 6.2.1, 6.2.3 | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5cdd818-3413-4b73-bf27-adb9016cd7fd); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-3-slides.pdf); [Programming material (.rmd)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-3-programming.Rmd); [Programming material (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-3-programming.pdf) | --
 Thu 10/14 | -- | Fall break | -- | -- | --
-Tue 10/19 | 3. Regression-based methods | Lasso regression | ISLR Ch. 6.2.2 | TBA | --
-Thu 10/21 | 3. Regression-based methods | Unit 3 Review | -- | TBA | Quiz 3 in class
-Fri 10/22 | -- | Midterm review session (5:15-6:45pm in JMHH F85) | -- | TBA | --
-Sun 10/24 | -- | -- | -- | -- | [Homework 3](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/homework/homework-3/homework-3.pdf) due at 11:59pm
-Mon 10/25 | -- | -- | -- | -- | Midterm exam (7-9pm);<br />([Last year's midterm and solutions](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/midterm/midterm-spring-2021))
-Tue 10/26 | -- | Midterm solutions and final project intro | -- | TBA | --
-Thu 10/28 | -- | Buffer | TBA | TBA | --
+Tue 10/19 | 3. Regression-based methods | Lasso regression | ISLR Ch. 6.2.2 | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6cb6a331-9d7b-48cf-a2dd-adc000206369); [Slides (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-4-slides.pdf); [Programming material (.rmd)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-4-programming.Rmd); [Programming material (.pdf)](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/lectures/unit-3/unit-3-lecture-4-programming.pdf) | --
+Thu 10/21 | 3. Regression-based methods | Unit 3 Review | -- | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a64c5b04-c853-49bf-a5f1-adc0003815b4) | [Quiz 3](https://canvas.upenn.edu/courses/1597404/assignments/9195949) in class;<br />([Quiz 3 from last semester](https://canvas.upenn.edu/courses/1597404/quizzes/2651215))
+Fri 10/22 | -- | Midterm review session (5:15-6:45pm in JMHH F85) | -- | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9ffd566-a20b-4ca8-9ffe-adc80102a7e1); [Review materials](https://github.com/Katsevich-Teaching/stat-471-fall-2021/tree/main/midterm/midterm-review) | --
+Mon 10/25 | -- | -- | -- | -- | [Midterm exam](https://github.com/Katsevich-Teaching/stat-471-fall-2021/tree/main/midterm/midterm-fall-2021) (7-9pm in SHDH 350);<br />([Last year's midterm and solutions](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/midterm/midterm-spring-2021))
+Tue 10/26 | -- | Discussion of midterm solutions | -- | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ad4b412-8804-42cc-95c5-adca0104f3db) | --
+Wed 10/27 | -- | -- | -- | -- | [Homework 3](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/homework/homework-3/homework-3.pdf) due at 11:59pm
+Thu 10/28 | -- | Discussion of Quiz 3 and final project | -- | [Class session (video)](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30251262-927c-4a6e-ae6c-adca014342c0) | --
 Tue 11/2 | 4. Tree-based methods | Growing decision trees | ISLRv1 pp. 303-307, 311-314 / ISLRv2 pp. 327-331, 335-338 | TBA | --
 Thu 11/4 | 4. Tree-based methods | Tree pruning and bagging | ISLRv1 pp. 307-310, 314-317 / ISLRv2 pp. 331-334, 338-341 | TBA | --
 Tue 11/9 | 4. Tree-based methods | Random forests | ISLRv1 pp. 317-321 / ISLRv2 pp. 342-345| TBA | --
 Thu 11/11 | 4. Tree-based methods | Boosting | ISLR Ch. 8.2.3 | TBA | --
-Tue 11/16 | 4. Tree-based methods | Unit 4 Review | -- | TBA | Quiz 4 in class
-Wed 11/17 | -- | -- | -- | -- | Homework 4 due at 11:59pm
+Tue 11/16 | 4. Tree-based methods | Unit 4 Review | -- | TBA | Quiz 4 in class;<br />([Quiz 4 from last semester](https://canvas.upenn.edu/courses/1597404/quizzes/2651237))
+Wed 11/17 | -- | -- | -- | -- | [Homework 4](https://github.com/Katsevich-Teaching/stat-471-fall-2021/blob/main/homework/homework-4/homework-4.pdf) due at 11:59pm
 Thu 11/18 | 5. Deep learning | Intro to deep learning | ISLRv2 Ch. 10.1, 10.2, 10.6| TBA | --
 Tue 11/23 | 5. Deep learning | Optimization and computation | ISLRv2 Ch. 10.7 | TBA | --
 Thu 11/25 | -- | Thanksgiving break | -- | -- | --
 Tue 11/30 | 5. Deep learning | Deep learning for image processing | ISLRv2 Ch. 10.3 | TBA | --
 Thu 12/2 | 5. Deep learning | Deep learning for text processing | ISLRv2 Ch. 10.4-10.5 | TBA | --
-Tue 12/7 | 5. Deep learning | Unit 5 Review | -- | TBA | Quiz 5 in class
+Tue 12/7 | 5. Deep learning | Unit 5 Review | -- | TBA | Quiz 5 in class;<br />(There was no Quiz 5 last semester.)
 Wed 12/8 | -- | -- | -- | -- | Homework 5 due at 11:59pm
 Thu 12/9 | -- | Course wrap-up | -- | TBA | --
 Sun 12/19 | -- | -- | -- | -- | Final project due at 11:59pm
